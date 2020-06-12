@@ -68,10 +68,9 @@ int main()
             numbers.push_back(d);
             
         }
-    }
-        
-   
     
+    }
+
     /*
     cout<<endl;
     for(int i=0;i<n;i++)
